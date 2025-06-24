@@ -1,0 +1,17 @@
+[33mcommit 98c2225acd962ca38130ce3aa4b0f302bea7c2f5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: eunic <euniceasneta@gmail.com>
+Date:   Wed Jun 25 01:11:48 2025 +0800
+
+    Add tailwindcss.exe to .gitignore and untrack it
+
+[33mcommit 21e4943309c287c4b3b89c3e9cd937651bf46cfe[m
+Author: eunic <euniceasneta@gmail.com>
+Date:   Wed Jun 25 00:58:35 2025 +0800
+
+    Initial project upload
+
+[33mcommit 4e2a6089bc4b3c09a8df82b646bc4e2a5ca00f7d[m
+Author: eunic <euniceasneta@gmail.com>
+Date:   Wed Jun 25 00:54:23 2025 +0800
+
+    first commit
